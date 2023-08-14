@@ -17,7 +17,7 @@
                 echo "Addition";
               }
             ?>
-             of two numbers</h2>
+             of two numbers in PHP</h2>
         <br/>
         <form action="" method="post">
         <table>
